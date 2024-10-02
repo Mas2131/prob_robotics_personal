@@ -1,0 +1,5 @@
+We basically have the same situation as before but need to save theta: if
+    theta = 1 I look at the right,
+    theta = 2 I look "in front of me",
+    theta = 3 I look at the left,
+    theta = 4 I look "behind me"
